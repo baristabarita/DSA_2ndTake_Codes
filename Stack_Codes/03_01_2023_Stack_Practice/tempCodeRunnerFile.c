@@ -1,0 +1,2 @@
+display(S);
+    printf("\n");

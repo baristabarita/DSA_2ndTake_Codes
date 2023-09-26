@@ -1,0 +1,1 @@
+printf("Current top#: %d", S->top);

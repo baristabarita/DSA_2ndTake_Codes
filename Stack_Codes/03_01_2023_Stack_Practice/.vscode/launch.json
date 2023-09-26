@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Lenovo/Documents/School Files/College Year 2/2ndSem/CIS_2101 DSA retake/Stack_Codes/03_01_2023_Stack_Practice",
+      "program": "c:/Users/Lenovo/Documents/School Files/College Year 2/2ndSem/CIS_2101 DSA retake/Stack_Codes/03_01_2023_Stack_Practice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
